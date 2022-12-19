@@ -1,6 +1,6 @@
-package com.GabrielMJr.Twaire.Math;
+package com.gabrielMJr.math;
 
-import com.GabrielMJr.Twaire.Math.Mathe;
+import com.gabrielMJr.math.Mathe;
 
 public class Arranjo extends Mathe {
     private int n;

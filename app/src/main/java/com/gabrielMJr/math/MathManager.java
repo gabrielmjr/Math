@@ -1,4 +1,4 @@
-package com.GabrielMJr.Twaire.Math;
+package com.gabrielMJr.math;
 
 interface MathManager {
     public abstract void setABC(Long a, Long b, Long c);
