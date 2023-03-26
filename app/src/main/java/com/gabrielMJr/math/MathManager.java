@@ -1,4 +1,4 @@
-package com.gabrielMJr.math;
+package com.gabrielmjr.math;
 
 interface MathManager {
     public abstract void setABC(Long a, Long b, Long c);

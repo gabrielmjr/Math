@@ -3,9 +3,9 @@
  * github.com/gabrielmjr
  */
 
-package com.gabrielMJr.math;
+package com.gabrielmjr.math;
 
-import com.gabrielMJr.math.MathManager;
+import com.gabrielmjr.math.MathManager;
 
 public class Mathe implements MathManager {
 
