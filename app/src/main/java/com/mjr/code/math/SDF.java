@@ -1,6 +1,6 @@
-package com.gabrielmjr.math;
+package com.mjr.code.math;
 
-import com.gabrielmjr.math.Mathe;
+import com.mjr.code.math.Mathe;
 
 public class SDF extends Mathe {
     // Atributos

@@ -1,11 +1,11 @@
 /* autor e criador:
  * Gabriel MJr
- * github.com/gabrielmjr
+ * github.com/mjr.code
  */
 
-package com.gabrielmjr.math;
+package com.mjr.code.math;
 
-import com.gabrielmjr.math.MathManager;
+import com.mjr.code.math.MathManager;
 
 public class Mathe implements MathManager {
 
